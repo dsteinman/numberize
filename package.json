@@ -1,6 +1,6 @@
 {
   "name": "numerizer",
-  "version": "0.0.4",
+  "version": "0.0.1",
   "description": "Parse numbers in natural language from strings",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bolgovr/numerizerJS.git"
+    "url": "git://github.com/dsteinman/numberizer.git"
   },
   "keywords": [
     "parse",
@@ -18,8 +18,7 @@
   "devDependencies": {
     "mocha": "*"
   },
-  "author": "Roman Bolgov",
+  "author": "Dan Steinman",
   "license": "MIT",
-  "readmeFilename": "README.md",
-  "gitHead": "bd8e4f4d7a34f3c5fe64a346a33e7f268e9b66f8"
+  "readmeFilename": "README.md"
 }
