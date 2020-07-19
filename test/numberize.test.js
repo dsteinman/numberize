@@ -1,8 +1,6 @@
 var assert = require('assert');
 
 var numberize = require('../');
-// console.log('hi', numberize('ten five'));
-// process.exit();
 
 describe("numberize", function() {
 

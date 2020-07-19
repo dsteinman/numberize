@@ -1,1 +1,1 @@
-module.exports = require('./lib/numerizer.js');
+module.exports = require('./lib/numberize.js');
