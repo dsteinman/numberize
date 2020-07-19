@@ -18,10 +18,7 @@
   "devDependencies": {
     "mocha": "^8.0.1"
   },
-  "author": "Dan Steinman",
   "license": "MIT",
-  "readmeFilename": "README.md",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@dsteinman/"
-  }
+  "author": "Dan Steinman",
+  "readmeFilename": "README.md"
 }
