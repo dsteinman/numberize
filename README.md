@@ -1,7 +1,7 @@
-numberizer
+Numberize
 ==========
 
-Numberizer is a fork of [numerizerJS](https://github.com/bolgovr/numerizerJS) with only minor
+Numberize is a fork of [numerizerJS](https://github.com/bolgovr/numerizerJS) with only minor
 modifications, and may or may not have additional changes in the future depending on what is required
 by the [Bumblebee](https://github.com/jaxcore/bumblebee) voice app framework.
 
@@ -11,13 +11,13 @@ Port of [Chronic's](https://github.com/mojombo/chronic) numerizer lib to JavaScr
 ## Installation
 
 ```
-npm install numberizer
+npm install numberize
 ```
 
 ## Usage
 
 ```javascript
- var numerizer = require('numberizer');
+ var numberize = require('numberize');
  numerizer('forty two'); //'42', library returns String, so do not forget to parseInt or parseFloat it
 ```
 
